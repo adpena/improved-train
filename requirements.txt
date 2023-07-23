@@ -49,3 +49,5 @@ pandas
 matplotlib
 folium
 openpyxl
+pygwalker
+pandasai
