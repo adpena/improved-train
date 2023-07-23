@@ -46,7 +46,6 @@ plotly>=5,<6
 bqplot
 
 pandas
-plotly
 matplotlib
 folium
 openpyxl
