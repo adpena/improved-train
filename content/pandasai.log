@@ -1,0 +1,1402 @@
+2023-07-23 19:07:52 [INFO] Question: What are the five statistics on which the disparity in the averages between public school districts and charter schools are the greatest in favor of public school districts? Generate plots of the separate kernel density estimates for each, with a verbal summary of the disparity and the harmful implications for students and educators in charter schools.
+2023-07-23 19:07:52 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:07:52 [INFO] Prompt ID: fdf50577-1869-4167-acc8-16013c57e030
+2023-07-23 19:07:53 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, your messages resulted in 11330 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:08:13 [INFO] Question: What are the top 3 statistics on which the disparity in the averages between public school districts and charter schools are the greatest in favor of public school districts? Generate plots of the separate kernel density estimates for each, with a verbal summary of the disparity and the harmful implications for students and educators in charter schools.
+2023-07-23 19:08:13 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:08:13 [INFO] Prompt ID: 4cfa16cc-fb5d-475a-b959-053f42fbe65b
+2023-07-23 19:08:14 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, your messages resulted in 11331 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:08:24 [INFO] Question: What are the top 2 statistics on which the disparity in the averages between public school districts and charter schools are the greatest in favor of public school districts? Generate plots of the separate kernel density estimates for each, with a verbal summary of the disparity and the harmful implications for students and educators in charter schools.
+2023-07-23 19:08:24 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:08:24 [INFO] Prompt ID: d3f0150f-7818-4236-b5b0-374b42f1ba91
+2023-07-23 19:08:25 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, your messages resulted in 11332 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:08:46 [INFO] Question: What are the top 5 statistics on which the disparity in the averages between public school districts and charter schools are the greatest in favor of public school districts?
+2023-07-23 19:08:46 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:08:46 [INFO] Prompt ID: 8639e74b-a8d6-435f-b407-4875ebde0157
+2023-07-23 19:08:47 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, your messages resulted in 11302 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:11:21 [INFO] Question: What are the top 5 variables where public school districts outperform charter schools?
+2023-07-23 19:11:21 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:11:21 [INFO] Prompt ID: c6ca6f9d-6883-4570-9aad-6bcbf6cb8433
+2023-07-23 19:11:22 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, your messages resulted in 11286 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:12:32 [INFO] Question: What are the top 1 variables where public school districts outperform charter schools?
+2023-07-23 19:12:32 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:12:32 [INFO] Prompt ID: fd5f0fd3-08c8-4b0e-a9f7-12719ae2688c
+2023-07-23 19:12:33 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, your messages resulted in 11286 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:12:53 [INFO] Question: What is the top variable where public school districts outperform charter schools?
+2023-07-23 19:12:53 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:12:53 [INFO] Prompt ID: 8650f9d1-b878-4187-afd8-d0a4a8b6a3b8
+2023-07-23 19:12:54 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, your messages resulted in 11285 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:13:37 [INFO] Question: What is the worst performing charter school with the most minority students that is the closest to a high-performing public school?
+2023-07-23 19:13:37 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:13:37 [INFO] Prompt ID: 01ad3710-350b-4100-8c61-3aa093fcac43
+2023-07-23 19:13:38 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, your messages resulted in 11295 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:13:57 [INFO] Question: What is the charter school with the worst statistics?
+2023-07-23 19:13:57 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:13:57 [INFO] Prompt ID: 80ee03eb-730e-4f5a-ad4a-9e08e1006efa
+2023-07-23 19:13:58 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, your messages resulted in 11280 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:14:38 [INFO] Question: How many charter schools are there?
+2023-07-23 19:14:38 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:14:38 [INFO] Prompt ID: 14573093-d498-445f-b807-9e6ac4f84cbd
+2023-07-23 19:14:38 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, your messages resulted in 11277 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:14:51 [INFO] Question: How many schools are there?
+2023-07-23 19:14:51 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:14:51 [INFO] Prompt ID: 9b517b01-0ba1-49ea-8452-a93b6d1d91c3
+2023-07-23 19:14:52 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, your messages resulted in 11277 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:14:58 [INFO] Question: How many rows are there?
+2023-07-23 19:14:58 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:14:58 [INFO] Prompt ID: 0b46bdba-8053-45df-a99c-d7195171de95
+2023-07-23 19:14:59 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, your messages resulted in 11276 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:15:14 [INFO] Question: How many rows are there?
+2023-07-23 19:15:14 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:15:14 [INFO] Prompt ID: 56f7a700-1fd9-4407-b632-65c682d312df
+2023-07-23 19:15:15 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, your messages resulted in 11277 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:17:44 [INFO] Question: How many rows are there?
+2023-07-23 19:17:44 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:17:44 [INFO] Prompt ID: 4efcd878-2f68-4801-869f-f4460ea9cae2
+2023-07-23 19:17:44 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, your messages resulted in 4610 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:19:10 [INFO] Question: What are the top 3 variables where the disparity is greatest in favor of public school districts? Export a plot for each.
+2023-07-23 19:19:10 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:19:10 [INFO] Prompt ID: 46764f55-0693-4823-b01c-fff6ae70d2f2
+2023-07-23 19:19:18 [INFO] 
+                        Code generated:
+                        ```
+                        import pandas as pd
+import matplotlib.pyplot as plt
+
+# Read the dataframe
+df = pd.read_csv('data.csv')
+
+# Calculate the disparity for each variable
+df['Disparity'] = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent'].mean()
+
+# Sort the dataframe by disparity in descending order
+df_sorted = df.sort_values(by='Disparity', ascending=False)
+
+# Get the top 3 variables with greatest disparity
+top_3_variables = df_sorted.head(3)['Disparity']
+
+# Plot the top 3 variables
+for variable in top_3_variables.index:
+    plt.figure()
+    plt.bar(df['District Name'], df[variable])
+    plt.xlabel('District Name')
+    plt.ylabel(variable)
+    plt.title(f'Top 3 Variables: {variable}')
+    plt.xticks(rotation=90)
+    plt.show()
+                        ```
+                    
+2023-07-23 19:19:18 [INFO] 
+Code running:
+```
+df['Disparity'] = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent'].mean()
+df_sorted = df.sort_values(by='Disparity', ascending=False)
+top_3_variables = df_sorted.head(3)['Disparity']
+for variable in top_3_variables.index:
+    plt.figure()
+    plt.bar(df['District Name'], df[variable])
+    plt.xlabel('District Name')
+    plt.ylabel(variable)
+    plt.title(f'Top 3 Variables: {variable}')
+    plt.xticks(rotation=90)
+    plt.show(block=False)
+plt.close('all')
+```
+2023-07-23 19:19:18 [WARNING] Error executing code (count: 0)
+2023-07-23 19:19:19 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, your messages resulted in 5974 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:19:32 [INFO] Question: What are the top 3 variables where the disparity is greatest in favor of public school districts?
+2023-07-23 19:19:32 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:19:32 [INFO] Prompt ID: a55a38bf-4637-409b-93f3-19decfe48414
+2023-07-23 19:19:38 [INFO] 
+                        Code generated:
+                        ```
+                        # Calculate the disparity for each variable
+df['Disparity'] = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent'].mean()
+
+# Sort the dataframe by disparity in descending order
+df_sorted = df.sort_values('Disparity', ascending=False)
+
+# Get the top 3 variables with greatest disparity in favor of public school districts
+top_3_variables = df_sorted[['District Name', 'Disparity']].head(3)
+
+top_3_variables
+                        ```
+                    
+2023-07-23 19:19:38 [INFO] 
+Code running:
+```
+df['Disparity'] = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent'].mean()
+df_sorted = df.sort_values('Disparity', ascending=False)
+top_3_variables = df_sorted[['District Name', 'Disparity']].head(3)
+top_3_variables
+```
+2023-07-23 19:19:38 [WARNING] Error executing code (count: 0)
+2023-07-23 19:19:38 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, your messages resulted in 5881 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:19:50 [INFO] Question: Concisely respond. What are the top 3 variables where the disparity is greatest in favor of public school districts?
+2023-07-23 19:19:50 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:19:50 [INFO] Prompt ID: c3865eac-77b2-4519-a06a-8e87b9845745
+2023-07-23 19:19:56 [INFO] 
+                        Code generated:
+                        ```
+                        # Calculate the disparity for each variable
+df['Disparity'] = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent'].mean()
+
+# Sort the dataframe by disparity in descending order
+sorted_df = df.sort_values('Disparity', ascending=False)
+
+# Get the top 3 variables with greatest disparity in favor of public school districts
+top_3_variables = sorted_df[['District Name', 'Disparity']].head(3)
+
+top_3_variables
+                        ```
+                    
+2023-07-23 19:19:56 [INFO] 
+Code running:
+```
+df['Disparity'] = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent'].mean()
+sorted_df = df.sort_values('Disparity', ascending=False)
+top_3_variables = sorted_df[['District Name', 'Disparity']].head(3)
+top_3_variables
+```
+2023-07-23 19:19:56 [WARNING] Error executing code (count: 0)
+2023-07-23 19:19:56 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, your messages resulted in 5886 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:20:04 [INFO] Question: Concisely respond. What are the top 2 variables where the disparity is greatest in favor of public school districts?
+2023-07-23 19:20:04 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:20:04 [INFO] Prompt ID: ad96a944-d4c6-4c4d-9b0f-0d024a481fc9
+2023-07-23 19:20:10 [INFO] 
+                        Code generated:
+                        ```
+                        # Calculate the disparity for each variable
+df['Disparity'] = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent'].mean()
+
+# Sort the dataframe by disparity in descending order
+sorted_df = df.sort_values('Disparity', ascending=False)
+
+# Get the top 2 variables with greatest disparity in favor of public school districts
+top_2_variables = sorted_df[['District Name', 'Disparity']].head(2)
+
+top_2_variables
+                        ```
+                    
+2023-07-23 19:20:10 [INFO] 
+Code running:
+```
+df['Disparity'] = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent'].mean()
+sorted_df = df.sort_values('Disparity', ascending=False)
+top_2_variables = sorted_df[['District Name', 'Disparity']].head(2)
+top_2_variables
+```
+2023-07-23 19:20:10 [WARNING] Error executing code (count: 0)
+2023-07-23 19:20:11 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, your messages resulted in 5886 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:20:30 [INFO] Question: Concisely respond. What is the top variable where the disparity is greatest in favor of public school districts?
+2023-07-23 19:20:30 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:20:30 [INFO] Prompt ID: 3e7b73e1-90d8-407f-aa83-01aab3f9a3eb
+2023-07-23 19:20:35 [INFO] 
+                        Code generated:
+                        ```
+                        # Calculate the disparity between public and charter school districts for each variable
+df['Disparity'] = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent'].shift(1)
+
+# Find the variable with the greatest disparity in favor of public school districts
+top_variable = df.loc[df['Disparity'].idxmax(), 'District 2022 Staff: Teacher Total Full Time Equiv Percent']
+
+top_variable
+                        ```
+                    
+2023-07-23 19:20:35 [INFO] 
+Code running:
+```
+df['Disparity'] = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent'].shift(1)
+top_variable = df.loc[df['Disparity'].idxmax(), 'District 2022 Staff: Teacher Total Full Time Equiv Percent']
+top_variable
+```
+2023-07-23 19:20:35 [WARNING] Error executing code (count: 0)
+2023-07-23 19:20:42 [INFO] Answer: 38.3
+2023-07-23 19:20:42 [INFO] Executed in: 12.161849737167358s
+2023-07-23 19:20:58 [INFO] Question: Concisely respond. What is the name and value of the top variable where the disparity is greatest in favor of public school districts?
+2023-07-23 19:20:58 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:20:58 [INFO] Prompt ID: c5b90813-2acd-4bd6-beef-49e1ad0869c2
+2023-07-23 19:21:02 [INFO] 
+                        Code generated:
+                        ```
+                        # Find the variable with the greatest disparity in favor of public school districts
+max_disparity = df['Disparity'].max()
+variable_with_max_disparity = df.loc[df['Disparity'] == max_disparity].columns[0]
+
+variable_with_max_disparity, max_disparity
+                        ```
+                    
+2023-07-23 19:21:02 [INFO] 
+Code running:
+```
+max_disparity = df['Disparity'].max()
+variable_with_max_disparity = df.loc[df['Disparity'] == max_disparity].columns[0]
+variable_with_max_disparity, max_disparity
+```
+2023-07-23 19:21:02 [INFO] Answer: District Number 38.3
+2023-07-23 19:21:02 [INFO] Executed in: 4.274824857711792s
+2023-07-23 19:21:31 [INFO] Question: Concisely respond. What is the name and value of the top variable where the disparity is greatest in favor of public school districts besides (besides District Number of any other identification number)?
+2023-07-23 19:21:31 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:21:31 [INFO] Prompt ID: 395d45f7-614b-4f0e-8634-bc5201fe1536
+2023-07-23 19:21:38 [INFO] 
+                        Code generated:
+                        ```
+                        # Find the variable with the greatest disparity in favor of public school districts
+disparity_variable = df.columns[df['Disparity'] == df['Disparity'].max()].tolist()[0]
+
+# Get the name and value of the top variable
+variable_name = disparity_variable.split(':')[1].strip()
+variable_value = df[disparity_variable].max()
+
+variable_name, variable_value
+                        ```
+                    
+2023-07-23 19:21:38 [INFO] 
+Code running:
+```
+disparity_variable = df.columns[df['Disparity'] == df['Disparity'].max()].tolist()[0]
+variable_name = disparity_variable.split(':')[1].strip()
+variable_value = df[disparity_variable].max()
+variable_name, variable_value
+```
+2023-07-23 19:21:38 [WARNING] Error executing code (count: 0)
+2023-07-23 19:21:38 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, you requested 4127 tokens (3615 in the messages, 512 in the completion). Please reduce the length of the messages or completion." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:21:53 [INFO] Question: Concisely respond. What is the name of the top variable where the disparity is greatest in favor of public school districts besides (besides District Number of any other identification number)?
+2023-07-23 19:21:53 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:21:53 [INFO] Prompt ID: 1d9e1016-b7c7-4361-be88-f3726f27b9a1
+2023-07-23 19:21:57 [INFO] 
+                        Code generated:
+                        ```
+                        # Find the variable with the greatest disparity in favor of public school districts
+disparity_variable = df.columns[df['Disparity'] == df['Disparity'].max()].tolist()[0]
+
+# Get the name of the variable
+variable_name = df[disparity_variable].name
+
+variable_name
+                        ```
+                    
+2023-07-23 19:21:57 [INFO] 
+Code running:
+```
+disparity_variable = df.columns[df['Disparity'] == df['Disparity'].max()].tolist()[0]
+variable_name = df[disparity_variable].name
+variable_name
+```
+2023-07-23 19:21:57 [WARNING] Error executing code (count: 0)
+2023-07-23 19:21:57 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, you requested 4107 tokens (3595 in the messages, 512 in the completion). Please reduce the length of the messages or completion." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:22:11 [INFO] Question: Concisely respond. What is the name of the top variable where the disparity is greatest in favor of public school districts (besides District Number of any other identification number)?
+2023-07-23 19:22:11 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:22:11 [INFO] Prompt ID: 6d7cd98e-ed83-459a-b415-65047144fab2
+2023-07-23 19:22:17 [INFO] 
+                        Code generated:
+                        ```
+                        # Find the variable with the greatest disparity in favor of public school districts
+public_disparity = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'N']['Disparity']
+top_variable = public_disparity.idxmax()
+
+# Get the name of the top variable
+top_variable_name = df.columns[top_variable]
+
+top_variable_name
+                        ```
+                    
+2023-07-23 19:22:17 [INFO] 
+Code running:
+```
+public_disparity = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'N']['Disparity']
+top_variable = public_disparity.idxmax()
+top_variable_name = df.columns[top_variable]
+top_variable_name
+```
+2023-07-23 19:22:17 [WARNING] Error executing code (count: 0)
+2023-07-23 19:22:18 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, you requested 4111 tokens (3599 in the messages, 512 in the completion). Please reduce the length of the messages or completion." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:22:18 [INFO] Question: Concisely respond. What is the name of the top variable where the disparity is greatest in favor of public school districts (besides District Number of any other ID number)?
+2023-07-23 19:22:18 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:22:18 [INFO] Prompt ID: 5093f5c0-23a0-4443-9b28-054348cb05c8
+2023-07-23 19:22:23 [INFO] 
+                        Code generated:
+                        ```
+                        # Find the variable with the greatest disparity in favor of public school districts
+disparity_max = df[df['Disparity'] > 0]['Disparity'].max()
+variable_with_max_disparity = df[df['Disparity'] == disparity_max].columns[0]
+
+variable_with_max_disparity
+                        ```
+                    
+2023-07-23 19:22:23 [INFO] 
+Code running:
+```
+disparity_max = df[df['Disparity'] > 0]['Disparity'].max()
+variable_with_max_disparity = df[df['Disparity'] == disparity_max].columns[0]
+variable_with_max_disparity
+```
+2023-07-23 19:22:23 [INFO] Answer: District Number
+2023-07-23 19:22:23 [INFO] Executed in: 5.018845081329346s
+2023-07-23 19:22:53 [INFO] Question: Concisely respond. What is the name of the second-most variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:22:53 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:22:53 [INFO] Prompt ID: 1c111e45-d6fb-446b-8fbb-eafd36d42ff1
+2023-07-23 19:22:57 [INFO] 
+                        Code generated:
+                        ```
+                        second_most_variable = df.columns[df['Disparity'].nsmallest(2).idxmax()]
+second_most_variable
+                        ```
+                    
+2023-07-23 19:22:57 [INFO] 
+Code running:
+```
+second_most_variable = df.columns[df['Disparity'].nsmallest(2).idxmax()]
+second_most_variable
+```
+2023-07-23 19:22:57 [WARNING] Error executing code (count: 0)
+2023-07-23 19:23:06 [INFO] Question: Concisely respond. What is the name of the third top variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:23:06 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:23:06 [INFO] Prompt ID: b9800086-683b-4c9c-851a-66354ed1ee5b
+2023-07-23 19:23:09 [INFO] 
+                        Code generated:
+                        ```
+                        df_sorted = df.sort_values(by='Disparity', ascending=False)
+third_top_variable = df_sorted.columns[2]
+third_top_variable
+                        ```
+                    
+2023-07-23 19:23:09 [INFO] 
+Code running:
+```
+df_sorted = df.sort_values(by='Disparity', ascending=False)
+third_top_variable = df_sorted.columns[2]
+third_top_variable
+```
+2023-07-23 19:23:09 [INFO] Answer: County Number
+2023-07-23 19:23:09 [INFO] Executed in: 2.930617094039917s
+2023-07-23 19:23:15 [INFO] Question: Concisely respond. What is the name of the fourth top variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:23:15 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:23:15 [INFO] Prompt ID: 162a571d-73fe-44de-a3a0-c3cb6282d848
+2023-07-23 19:23:18 [INFO] 
+                        Code generated:
+                        ```
+                        df_sorted = df.sort_values(by='Disparity', ascending=False)
+fourth_top_variable = df_sorted.columns[3]
+fourth_top_variable
+                        ```
+                    
+2023-07-23 19:23:18 [INFO] 
+Code running:
+```
+df_sorted = df.sort_values(by='Disparity', ascending=False)
+fourth_top_variable = df_sorted.columns[3]
+fourth_top_variable
+```
+2023-07-23 19:23:18 [INFO] Answer: District 2022: Postsecondary Readiness Distinction
+2023-07-23 19:23:18 [INFO] Executed in: 3.1043477058410645s
+2023-07-23 19:23:27 [INFO] Question: Concisely respond. What is the name of the third top variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:23:27 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:23:27 [INFO] Prompt ID: a86c18c6-7378-4af8-bd48-cb40077e0218
+2023-07-23 19:23:27 [INFO] Using cached response
+2023-07-23 19:23:27 [INFO] 
+Code running:
+```
+df_sorted = df.sort_values(by='Disparity', ascending=False)
+third_top_variable = df_sorted.columns[2]
+third_top_variable
+```
+2023-07-23 19:23:27 [INFO] Answer: County Number
+2023-07-23 19:23:27 [INFO] Executed in: 0.009212970733642578s
+2023-07-23 19:23:32 [INFO] Question: Concisely respond. What is the name of the fourth top variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:23:32 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:23:32 [INFO] Prompt ID: ca47d88b-55c0-4a09-b370-673f90a6f8b6
+2023-07-23 19:23:32 [INFO] Using cached response
+2023-07-23 19:23:32 [INFO] 
+Code running:
+```
+df_sorted = df.sort_values(by='Disparity', ascending=False)
+fourth_top_variable = df_sorted.columns[3]
+fourth_top_variable
+```
+2023-07-23 19:23:32 [INFO] Answer: District 2022: Postsecondary Readiness Distinction
+2023-07-23 19:23:32 [INFO] Executed in: 0.007195949554443359s
+2023-07-23 19:23:44 [INFO] Question: Concisely respond. What is the name of the fifth top variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:23:44 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:23:44 [INFO] Prompt ID: 6eef7607-d6ad-4baf-bfae-92f65810af5e
+2023-07-23 19:23:48 [INFO] 
+                        Code generated:
+                        ```
+                        df_sorted = df.sort_values(by='Disparity', ascending=False)
+fifth_top_variable = df_sorted.columns[4]
+fifth_top_variable
+                        ```
+                    
+2023-07-23 19:23:48 [INFO] 
+Code running:
+```
+df_sorted = df.sort_values(by='Disparity', ascending=False)
+fifth_top_variable = df_sorted.columns[4]
+fifth_top_variable
+```
+2023-07-23 19:23:48 [INFO] Answer: District 2022 Flag - Rated under AEA Procedures (Y/N)
+2023-07-23 19:23:48 [INFO] Executed in: 3.5941529273986816s
+2023-07-23 19:23:57 [INFO] Question: Concisely respond. What is the name of the sixth top variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:23:57 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:23:57 [INFO] Prompt ID: b1939bf9-a77e-42f2-b640-9c61c0f799ef
+2023-07-23 19:24:00 [INFO] 
+                        Code generated:
+                        ```
+                        df_sorted = df.sort_values(by='Disparity', ascending=False)
+sixth_top_variable = df_sorted.columns[5]
+sixth_top_variable
+                        ```
+                    
+2023-07-23 19:24:00 [INFO] 
+Code running:
+```
+df_sorted = df.sort_values(by='Disparity', ascending=False)
+sixth_top_variable = df_sorted.columns[5]
+sixth_top_variable
+```
+2023-07-23 19:24:00 [INFO] Answer: District 2022 Flag - Charter Operator (Y/N)
+2023-07-23 19:24:00 [INFO] Executed in: 3.295612096786499s
+2023-07-23 19:24:08 [INFO] Question: Concisely respond. What is the name of the seventh top variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:24:08 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:24:08 [INFO] Prompt ID: 2742e164-b23c-47e9-bbc9-1d65f60c0e6d
+2023-07-23 19:24:11 [INFO] 
+                        Code generated:
+                        ```
+                        seventh_top_variable = df.sort_values(by='Disparity', ascending=False).iloc[6]['District Name']
+seventh_top_variable
+                        ```
+                    
+2023-07-23 19:24:11 [INFO] 
+Code running:
+```
+seventh_top_variable = df.sort_values(by='Disparity', ascending=False).iloc[6]['District Name']
+seventh_top_variable
+```
+2023-07-23 19:24:11 [INFO] Answer: CHAPARRAL STAR ACADEMY
+2023-07-23 19:24:11 [INFO] Executed in: 3.008776903152466s
+2023-07-23 19:24:18 [INFO] Question: Concisely respond. What is the name of the eight top variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:24:18 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:24:18 [INFO] Prompt ID: 0463bf78-1a8b-41ac-8026-1d57813a19c0
+2023-07-23 19:24:22 [INFO] 
+                        Code generated:
+                        ```
+                        top_disparity = df.nlargest(8, 'Disparity')
+top_variable = top_disparity['District Name'].values
+top_variable
+                        ```
+                    
+2023-07-23 19:24:22 [INFO] 
+Code running:
+```
+top_disparity = df.nlargest(8, 'Disparity')
+top_variable = top_disparity['District Name'].values
+top_variable
+```
+2023-07-23 19:24:22 [INFO] Answer: ['CITYSCAPE SCHOOLS' 'WAYSIDE SCHOOLS'
+ 'SAM HOUSTON STATE UNIVERSITY CHARTER SCHOOL'
+ 'TREETOPS SCHOOL INTERNATIONAL' 'EAST TEXAS CHARTER SCHOOLS'
+ 'MANARA ACADEMY' 'CHAPARRAL STAR ACADEMY' 'TURKEY-QUITAQUE ISD']
+2023-07-23 19:24:22 [INFO] Executed in: 4.030125856399536s
+2023-07-23 19:24:37 [INFO] Question: Concisely respond. What is the name of the variable where the disparity is seventh greatest in favor of public school districts)?
+2023-07-23 19:24:37 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:24:37 [INFO] Prompt ID: 334624d7-1f97-4e04-a69a-24fd410c8ba8
+2023-07-23 19:24:42 [INFO] 
+                        Code generated:
+                        ```
+                        # Sort the dataframe by the 'Disparity' column in descending order
+sorted_df = df.sort_values('Disparity', ascending=False)
+
+# Get the name of the variable where the disparity is seventh greatest in favor of public school districts
+variable_name = sorted_df.iloc[6]['District Name']
+
+variable_name
+                        ```
+                    
+2023-07-23 19:24:42 [INFO] 
+Code running:
+```
+sorted_df = df.sort_values('Disparity', ascending=False)
+variable_name = sorted_df.iloc[6]['District Name']
+variable_name
+```
+2023-07-23 19:24:42 [INFO] Answer: CHAPARRAL STAR ACADEMY
+2023-07-23 19:24:42 [INFO] Executed in: 4.429129123687744s
+2023-07-23 19:24:47 [INFO] Question: Concisely respond. What is the name of the variable where the disparity is fourth greatest in favor of public school districts)?
+2023-07-23 19:24:47 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:24:47 [INFO] Prompt ID: 0e318760-ae41-48df-9e9d-d9153a73f646
+2023-07-23 19:24:51 [INFO] 
+                        Code generated:
+                        ```
+                        # Sort the dataframe by the 'Disparity' column in descending order
+sorted_df = df.sort_values('Disparity', ascending=False)
+
+# Get the name of the variable where the disparity is fourth greatest in favor of public school districts
+variable_name = sorted_df.iloc[3]['District Name']
+
+variable_name
+                        ```
+                    
+2023-07-23 19:24:51 [INFO] 
+Code running:
+```
+sorted_df = df.sort_values('Disparity', ascending=False)
+variable_name = sorted_df.iloc[3]['District Name']
+variable_name
+```
+2023-07-23 19:24:51 [INFO] Answer: TREETOPS SCHOOL INTERNATIONAL
+2023-07-23 19:24:51 [INFO] Executed in: 4.088464021682739s
+2023-07-23 19:25:09 [INFO] Question: Concisely respond. What is the name of the fifth top variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:25:09 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:25:09 [INFO] Prompt ID: b42a6e6b-7658-4dba-8a7b-9f563baad420
+2023-07-23 19:25:12 [INFO] 
+                        Code generated:
+                        ```
+                        df_sorted = df.sort_values(by='Disparity', ascending=False)
+fifth_top_variable = df_sorted.columns[4]
+fifth_top_variable
+                        ```
+                    
+2023-07-23 19:25:12 [INFO] 
+Code running:
+```
+df_sorted = df.sort_values(by='Disparity', ascending=False)
+fifth_top_variable = df_sorted.columns[4]
+fifth_top_variable
+```
+2023-07-23 19:25:12 [INFO] Answer: District 2022 Flag - Rated under AEA Procedures (Y/N)
+2023-07-23 19:25:12 [INFO] Executed in: 3.536019802093506s
+2023-07-23 19:25:19 [INFO] Question: Concisely respond. What is the name of the sixth top variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:25:19 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:25:19 [INFO] Prompt ID: ecbca419-c207-45e9-8689-98ca2f3c11c9
+2023-07-23 19:25:19 [INFO] Using cached response
+2023-07-23 19:25:19 [INFO] 
+Code running:
+```
+df_sorted = df.sort_values(by='Disparity', ascending=False)
+sixth_top_variable = df_sorted.columns[5]
+sixth_top_variable
+```
+2023-07-23 19:25:19 [INFO] Answer: District 2022 Flag - Charter Operator (Y/N)
+2023-07-23 19:25:19 [INFO] Executed in: 0.007041215896606445s
+2023-07-23 19:25:28 [INFO] Question: Concisely respond. What is the name of the variable where the disparity is fourth greatest in favor of public school districts)?
+2023-07-23 19:25:28 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:25:28 [INFO] Prompt ID: d55674d5-f20c-42ea-ac60-497b3a16873f
+2023-07-23 19:25:32 [INFO] 
+                        Code generated:
+                        ```
+                        # Sort the dataframe by the 'Disparity' column in descending order
+sorted_df = df.sort_values('Disparity', ascending=False)
+
+# Get the name of the variable where the disparity is fourth greatest in favor of public school districts
+variable_name = sorted_df.iloc[3]['District Name']
+
+variable_name
+                        ```
+                    
+2023-07-23 19:25:32 [INFO] 
+Code running:
+```
+sorted_df = df.sort_values('Disparity', ascending=False)
+variable_name = sorted_df.iloc[3]['District Name']
+variable_name
+```
+2023-07-23 19:25:32 [INFO] Answer: TREETOPS SCHOOL INTERNATIONAL
+2023-07-23 19:25:32 [INFO] Executed in: 4.2619829177856445s
+2023-07-23 19:25:39 [INFO] Question: Concisely respond. What is the name of the fourth top variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:25:39 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:25:39 [INFO] Prompt ID: b7e39e59-7bc9-4baa-9765-a327a7633a1c
+2023-07-23 19:25:39 [INFO] Using cached response
+2023-07-23 19:25:39 [INFO] 
+Code running:
+```
+df_sorted = df.sort_values(by='Disparity', ascending=False)
+fourth_top_variable = df_sorted.columns[3]
+fourth_top_variable
+```
+2023-07-23 19:25:39 [INFO] Answer: District 2022: Postsecondary Readiness Distinction
+2023-07-23 19:25:39 [INFO] Executed in: 0.007714271545410156s
+2023-07-23 19:25:52 [INFO] Question: Concisely respond. What is the name of the fourth top variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:25:52 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:25:52 [INFO] Prompt ID: b64096ef-7711-4851-888c-0249f8199dfc
+2023-07-23 19:25:52 [INFO] Using cached response
+2023-07-23 19:25:52 [INFO] 
+Code running:
+```
+df_sorted = df.sort_values(by='Disparity', ascending=False)
+fourth_top_variable = df_sorted.columns[3]
+fourth_top_variable
+```
+2023-07-23 19:25:52 [WARNING] Error executing code (count: 0)
+2023-07-23 19:25:53 [WARNING] Error executing code (count: 1)
+2023-07-23 19:25:55 [WARNING] Error executing code (count: 2)
+2023-07-23 19:25:57 [INFO] Answer: 
+2023-07-23 19:25:57 [INFO] Executed in: 5.70392918586731s
+2023-07-23 19:26:05 [INFO] Question: What is the name of the fourth top variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:26:05 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:26:05 [INFO] Prompt ID: 42a3b54b-514e-4024-83db-9c0790e088a0
+2023-07-23 19:26:08 [INFO] 
+                        Code generated:
+                        ```
+                        # Sort the dataframe by the variable with the greatest disparity in favor of public school districts
+sorted_df = df.sort_values(by='District 2022 Staff: Teacher Total Full Time Equiv Percent', ascending=False)
+
+# Get the name of the fourth top variable
+fourth_top_variable = sorted_df.columns[3]
+
+fourth_top_variable
+                        ```
+                    
+2023-07-23 19:26:08 [INFO] 
+Code running:
+```
+sorted_df = df.sort_values(by='District 2022 Staff: Teacher Total Full Time Equiv Percent', ascending=False)
+fourth_top_variable = sorted_df.columns[3]
+fourth_top_variable
+```
+2023-07-23 19:26:08 [INFO] Answer: District 2022: Postsecondary Readiness Distinction
+2023-07-23 19:26:08 [INFO] Executed in: 3.0324409008026123s
+2023-07-23 19:26:20 [INFO] Question: What is the name of the variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:26:20 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:26:20 [INFO] Prompt ID: 2d5e0c15-a08c-48dd-95d6-9308a7461f45
+2023-07-23 19:26:24 [INFO] 
+                        Code generated:
+                        ```
+                        # Find the variable where the disparity is greatest in favor of public school districts
+disparity = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent']
+max_disparity_index = disparity.idxmax()
+variable_name = df.columns[max_disparity_index]
+variable_name
+                        ```
+                    
+2023-07-23 19:26:24 [INFO] 
+Code running:
+```
+disparity = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent']
+max_disparity_index = disparity.idxmax()
+variable_name = df.columns[max_disparity_index]
+variable_name
+```
+2023-07-23 19:26:24 [WARNING] Error executing code (count: 0)
+2023-07-23 19:26:28 [WARNING] Error executing code (count: 1)
+2023-07-23 19:26:34 [INFO] Answer: District Number
+2023-07-23 19:26:34 [INFO] Executed in: 13.68398904800415s
+2023-07-23 19:26:49 [INFO] Question: What is the name of the variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:26:49 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:26:49 [INFO] Prompt ID: 383e1bcf-ff60-42f6-a381-45b3f3974b73
+2023-07-23 19:26:49 [INFO] Using cached response
+2023-07-23 19:26:49 [INFO] 
+Code running:
+```
+disparity = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent']
+max_disparity_index = disparity.idxmax()
+variable_name = df.columns[max_disparity_index]
+variable_name
+```
+2023-07-23 19:26:49 [WARNING] Error executing code (count: 0)
+2023-07-23 19:26:52 [WARNING] Error executing code (count: 1)
+2023-07-23 19:26:55 [WARNING] Error executing code (count: 2)
+2023-07-23 19:26:59 [INFO] Answer: 
+2023-07-23 19:26:59 [INFO] Executed in: 9.411062002182007s
+2023-07-23 19:26:59 [INFO] Question: Concisely respond. What is the name of the fifth top variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:26:59 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:26:59 [INFO] Prompt ID: 79b003a7-1169-4bb3-ad03-b36fb863ed91
+2023-07-23 19:26:59 [INFO] Using cached response
+2023-07-23 19:26:59 [INFO] 
+Code running:
+```
+df_sorted = df.sort_values(by='Disparity', ascending=False)
+fifth_top_variable = df_sorted.columns[4]
+fifth_top_variable
+```
+2023-07-23 19:26:59 [WARNING] Error executing code (count: 0)
+2023-07-23 19:27:01 [WARNING] Error executing code (count: 1)
+2023-07-23 19:27:02 [WARNING] Error executing code (count: 2)
+2023-07-23 19:27:04 [INFO] Answer: 
+2023-07-23 19:27:04 [INFO] Executed in: 5.132042169570923s
+2023-07-23 19:27:04 [INFO] Question: Concisely respond. What is the name of the sixth top variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:27:04 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:27:04 [INFO] Prompt ID: f98d7a9b-1737-4085-9f3d-b3e4058bd861
+2023-07-23 19:27:04 [INFO] Using cached response
+2023-07-23 19:27:04 [INFO] 
+Code running:
+```
+df_sorted = df.sort_values(by='Disparity', ascending=False)
+sixth_top_variable = df_sorted.columns[5]
+sixth_top_variable
+```
+2023-07-23 19:27:04 [WARNING] Error executing code (count: 0)
+2023-07-23 19:27:06 [WARNING] Error executing code (count: 1)
+2023-07-23 19:27:07 [INFO] Question: Concisely respond. What is the name of the variable where the disparity is fourth greatest in favor of public school districts)?
+2023-07-23 19:27:07 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:27:07 [INFO] Prompt ID: 340b5e77-73fe-410b-80f6-1439d8f523de
+2023-07-23 19:27:07 [INFO] Using cached response
+2023-07-23 19:27:07 [INFO] 
+Code running:
+```
+sorted_df = df.sort_values('Disparity', ascending=False)
+variable_name = sorted_df.iloc[3]['District Name']
+variable_name
+```
+2023-07-23 19:27:07 [WARNING] Error executing code (count: 0)
+2023-07-23 19:27:10 [WARNING] Error executing code (count: 1)
+2023-07-23 19:27:12 [WARNING] Error executing code (count: 2)
+2023-07-23 19:27:15 [INFO] Answer: 
+2023-07-23 19:27:15 [INFO] Executed in: 8.24402117729187s
+2023-07-23 19:28:14 [INFO] Question: What are the names of the 5 variables where the disparity is greatest in favor of public school districts over charter schools?
+2023-07-23 19:28:14 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:28:14 [INFO] Prompt ID: 3e098e76-93f7-4af0-8ae6-047544a1a3c3
+2023-07-23 19:28:20 [INFO] 
+                        Code generated:
+                        ```
+                        # Calculate the disparity between public school districts and charter schools for each variable
+df['Disparity'] = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent']
+
+# Sort the dataframe by the disparity in descending order
+df_sorted = df.sort_values('Disparity', ascending=False)
+
+# Get the names of the top 5 variables with the greatest disparity in favor of public school districts over charter schools
+top_5_variables = df_sorted.columns[7:112][:5]
+
+top_5_variables
+                        ```
+                    
+2023-07-23 19:28:20 [INFO] 
+Code running:
+```
+df['Disparity'] = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent']
+df_sorted = df.sort_values('Disparity', ascending=False)
+top_5_variables = df_sorted.columns[7:112][:5]
+top_5_variables
+```
+2023-07-23 19:28:20 [WARNING] Error executing code (count: 0)
+2023-07-23 19:28:20 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, you requested 4111 tokens (3599 in the messages, 512 in the completion). Please reduce the length of the messages or completion." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:28:26 [INFO] Question: What are the names of the 3 variables where the disparity is greatest in favor of public school districts over charter schools?
+2023-07-23 19:28:26 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:28:26 [INFO] Prompt ID: b5e08149-cb76-4515-94db-4dacf70f8734
+2023-07-23 19:28:33 [INFO] 
+                        Code generated:
+                        ```
+                        import pandas as pd
+
+# Read the dataframe
+df = pd.read_csv('data.csv')
+
+# Calculate the disparity between public school districts and charter schools
+df['Disparity'] = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent']
+
+# Sort the dataframe by disparity in descending order
+df_sorted = df.sort_values(by='Disparity', ascending=False)
+
+# Get the names of the top 3 variables with greatest disparity in favor of public school districts over charter schools
+top_3_variables = df_sorted.columns[7:10].tolist()
+
+top_3_variables
+                        ```
+                    
+2023-07-23 19:28:33 [INFO] 
+Code running:
+```
+df['Disparity'] = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent']
+df_sorted = df.sort_values(by='Disparity', ascending=False)
+top_3_variables = df_sorted.columns[7:10].tolist()
+top_3_variables
+```
+2023-07-23 19:28:33 [WARNING] Error executing code (count: 0)
+2023-07-23 19:28:33 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, you requested 4126 tokens (3614 in the messages, 512 in the completion). Please reduce the length of the messages or completion." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:28:36 [INFO] Question: What are the 3 variables where the disparity is greatest in favor of public school districts over charter schools?
+2023-07-23 19:28:36 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:28:36 [INFO] Prompt ID: 015d405e-0aa1-4b72-9a5e-8d44220167ce
+2023-07-23 19:28:43 [INFO] 
+                        Code generated:
+                        ```
+                        # Calculate the disparity between public school districts and charter schools for each variable
+df['Disparity'] = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent']
+
+# Sort the dataframe by the disparity in descending order
+df_sorted = df.sort_values('Disparity', ascending=False)
+
+# Get the top 3 variables with the greatest disparity in favor of public school districts over charter schools
+top_3_disparity_variables = df_sorted[['District 2022 Staff: Teacher Total Full Time Equiv Percent', 'District 2022 Staff: Teacher Total Full Time Equiv Percent', 'District 2022 Staff: Teacher Total Full Time Equiv Percent']].head(3)
+
+# Print the top 3 variables
+print(top_3_disparity_variables)
+                        ```
+                    
+2023-07-23 19:28:43 [INFO] 
+Code running:
+```
+df['Disparity'] = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent']
+df_sorted = df.sort_values('Disparity', ascending=False)
+top_3_disparity_variables = df_sorted[['District 2022 Staff: Teacher Total Full Time Equiv Percent', 'District 2022 Staff: Teacher Total Full Time Equiv Percent', 'District 2022 Staff: Teacher Total Full Time Equiv Percent']].head(3)
+print(top_3_disparity_variables)
+```
+2023-07-23 19:28:43 [WARNING] Error executing code (count: 0)
+2023-07-23 19:28:43 [INFO] error_code=context_length_exceeded error_message="This model's maximum context length is 4097 tokens. However, you requested 4160 tokens (3648 in the messages, 512 in the completion). Please reduce the length of the messages or completion." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-23 19:28:52 [INFO] Question: What is the variable where the disparity is greatest in favor of public school districts over charter schools?
+2023-07-23 19:28:52 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:28:52 [INFO] Prompt ID: 55759e08-7c57-4bcb-9fdf-8a136a469662
+2023-07-23 19:28:57 [INFO] 
+                        Code generated:
+                        ```
+                        # Calculate the disparity between public school districts and charter schools for each variable
+df['Disparity'] = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent']
+
+# Find the variable with the greatest disparity in favor of public school districts over charter schools
+greatest_disparity_variable = df['Disparity'].idxmax()
+
+# Print the variable with the greatest disparity
+print(greatest_disparity_variable)
+                        ```
+                    
+2023-07-23 19:28:57 [INFO] 
+Code running:
+```
+df['Disparity'] = df['District 2022 Staff: Teacher Total Full Time Equiv Percent'] - df['District 2022 Staff: Teacher Total Full Time Equiv Percent']
+greatest_disparity_variable = df['Disparity'].idxmax()
+print(greatest_disparity_variable)
+```
+2023-07-23 19:28:57 [WARNING] Error executing code (count: 0)
+2023-07-23 19:29:02 [WARNING] Error executing code (count: 1)
+2023-07-23 19:29:07 [WARNING] Error executing code (count: 2)
+2023-07-23 19:29:12 [INFO] Answer: 
+2023-07-23 19:29:12 [INFO] Executed in: 19.708555936813354s
+2023-07-23 19:29:37 [INFO] Question: On which columns are the disparities in averages greatest in favor of public school districts over charter schools?
+2023-07-23 19:29:37 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:29:37 [INFO] Prompt ID: 8475ed54-9153-4430-8183-3ccbc6660ac9
+2023-07-23 19:29:44 [INFO] 
+                        Code generated:
+                        ```
+                        import pandas as pd
+
+# Read the dataframe from a csv file
+df = pd.read_csv('data.csv')
+
+# Calculate the average values for public school districts and charter schools
+public_avg = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'N'].mean()
+charter_avg = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'Y'].mean()
+
+# Calculate the disparities in averages
+disparities = public_avg - charter_avg
+
+# Sort the disparities in descending order
+disparities_sorted = disparities.sort_values(ascending=False)
+
+# Get the columns with greatest disparities in favor of public school districts
+greatest_disparities = disparities_sorted[disparities_sorted > 0].index.tolist()
+
+# Print the columns with greatest disparities
+print(greatest_disparities)
+                        ```
+                    
+2023-07-23 19:29:44 [INFO] 
+Code running:
+```
+public_avg = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'N'].mean()
+charter_avg = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'Y'].mean()
+disparities = public_avg - charter_avg
+disparities_sorted = disparities.sort_values(ascending=False)
+greatest_disparities = disparities_sorted[disparities_sorted > 0].index.tolist()
+print(greatest_disparities)
+```
+2023-07-23 19:29:45 [INFO] Answer: []
+2023-07-23 19:29:45 [INFO] Executed in: 7.398420810699463s
+2023-07-23 19:30:08 [INFO] Question: On which vars are the disparities in average values greatest in favor of public school districts over charter schools?
+2023-07-23 19:30:08 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:30:08 [INFO] Prompt ID: b462c60e-dff2-4a5d-9bb2-bc74b2da4acc
+2023-07-23 19:30:14 [INFO] 
+                        Code generated:
+                        ```
+                        import pandas as pd
+
+# Read the dataframe
+df = pd.read_csv('data.csv')
+
+# Calculate the average values for public school districts and charter schools
+public_avg = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'N'].mean()
+charter_avg = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'Y'].mean()
+
+# Calculate the disparities in average values
+disparities = public_avg - charter_avg
+
+# Sort the disparities in descending order
+disparities_sorted = disparities.sort_values(ascending=False)
+
+# Get the variables with greatest disparities in favor of public school districts
+greatest_disparities = disparities_sorted.head()
+
+# Print the variables
+print(greatest_disparities.index.tolist())
+                        ```
+                    
+2023-07-23 19:30:14 [INFO] 
+Code running:
+```
+public_avg = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'N'].mean()
+charter_avg = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'Y'].mean()
+disparities = public_avg - charter_avg
+disparities_sorted = disparities.sort_values(ascending=False)
+greatest_disparities = disparities_sorted.head()
+print(greatest_disparities.index.tolist())
+```
+2023-07-23 19:30:14 [INFO] Answer: ['District 2022 Staff: Counselor Total Full Time Equiv Count', 'District 2022 Staff: Counselor Total Part Time Equiv Count', 'District 2022 Staff: Librarian Total Full Time Equiv Count', 'District 2022 Staff: Librarian Total Part Time Equiv Count', 'District 2022 Staff: Teacher Total Base Salary Average']
+2023-07-23 19:30:14 [INFO] Executed in: 6.610514163970947s
+2023-07-23 19:30:24 [INFO] Question: On which vars are the disparities in mean greatest in favor of public school districts over charter schools?
+2023-07-23 19:30:24 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:30:24 [INFO] Prompt ID: 69e64692-8b66-4587-a326-12176bf0a512
+2023-07-23 19:30:31 [INFO] 
+                        Code generated:
+                        ```
+                        import pandas as pd
+
+# Read the dataframe
+df = pd.read_csv('data.csv')
+
+# Calculate the mean for public school districts and charter schools
+public_mean = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'N'].mean()
+charter_mean = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'Y'].mean()
+
+# Calculate the disparities in mean
+disparities = public_mean - charter_mean
+
+# Sort the disparities in descending order
+disparities_sorted = disparities.sort_values(ascending=False)
+
+# Get the variables with greatest disparities in favor of public school districts
+greatest_disparities = disparities_sorted.head()
+
+# Print the variables
+print(greatest_disparities.index.tolist())
+                        ```
+                    
+2023-07-23 19:30:31 [INFO] 
+Code running:
+```
+public_mean = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'N'].mean()
+charter_mean = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'Y'].mean()
+disparities = public_mean - charter_mean
+disparities_sorted = disparities.sort_values(ascending=False)
+greatest_disparities = disparities_sorted.head()
+print(greatest_disparities.index.tolist())
+```
+2023-07-23 19:30:31 [INFO] Answer: ['District 2022 Staff: Counselor Total Full Time Equiv Count', 'District 2022 Staff: Counselor Total Part Time Equiv Count', 'District 2022 Staff: Librarian Total Full Time Equiv Count', 'District 2022 Staff: Librarian Total Part Time Equiv Count', 'District 2022 Staff: Teacher Total Base Salary Average']
+2023-07-23 19:30:31 [INFO] Executed in: 6.803105115890503s
+2023-07-23 19:30:42 [INFO] Question: On which vars are the disparities in mean greatest in favor of public school districts over charter schools?
+2023-07-23 19:30:42 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:30:42 [INFO] Prompt ID: fafcba35-e58b-4318-afc3-f50119e70ef4
+2023-07-23 19:30:42 [INFO] Using cached response
+2023-07-23 19:30:42 [INFO] 
+Code running:
+```
+public_mean = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'N'].mean()
+charter_mean = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'Y'].mean()
+disparities = public_mean - charter_mean
+disparities_sorted = disparities.sort_values(ascending=False)
+greatest_disparities = disparities_sorted.head()
+print(greatest_disparities.index.tolist())
+```
+2023-07-23 19:30:42 [INFO] Answer: ['District 2022 Staff: Counselor Total Full Time Equiv Count', 'District 2022 Staff: Counselor Total Part Time Equiv Count', 'District 2022 Staff: Librarian Total Full Time Equiv Count', 'District 2022 Staff: Librarian Total Part Time Equiv Count', 'District 2022 Staff: Teacher Total Base Salary Average']
+2023-07-23 19:30:42 [INFO] Executed in: 0.05973196029663086s
+2023-07-23 19:30:54 [INFO] Question: On which vars are the disparities in mean greatest in favor of public school districts over charter schools?
+2023-07-23 19:30:54 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:30:54 [INFO] Prompt ID: 961529a4-8531-4b57-ac25-a16882186383
+2023-07-23 19:30:54 [INFO] Using cached response
+2023-07-23 19:30:54 [INFO] 
+Code running:
+```
+public_mean = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'N'].mean()
+charter_mean = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'Y'].mean()
+disparities = public_mean - charter_mean
+disparities_sorted = disparities.sort_values(ascending=False)
+greatest_disparities = disparities_sorted.head()
+print(greatest_disparities.index.tolist())
+```
+2023-07-23 19:30:54 [INFO] Answer: ['District 2022 Staff: Counselor Total Full Time Equiv Count', 'District 2022 Staff: Counselor Total Part Time Equiv Count', 'District 2022 Staff: Librarian Total Full Time Equiv Count', 'District 2022 Staff: Librarian Total Part Time Equiv Count', 'District 2022 Staff: Teacher Total Base Salary Average']
+2023-07-23 19:30:54 [INFO] Executed in: 0.05411386489868164s
+2023-07-23 19:30:54 [INFO] Question: What are the corresponding values?
+2023-07-23 19:30:54 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:30:54 [INFO] Prompt ID: e2839276-c0bc-4754-8616-0ce2efe66262
+2023-07-23 19:31:14 [INFO] 
+                        Code generated:
+                        ```
+                        import pandas as pd
+
+# Read the data into a pandas dataframe
+df = pd.read_csv('data.csv')
+
+# Display the dataframe
+df.head()
+                        ```
+                    
+2023-07-23 19:31:14 [INFO] 
+Code running:
+```
+df.head()
+```
+2023-07-23 19:31:14 [INFO] Answer:   District Number County Name County Number  \
+0         '001902    ANDERSON          '001   
+1         '001903    ANDERSON          '001   
+2         '001904    ANDERSON          '001   
+3         '001906    ANDERSON          '001   
+4         '001907    ANDERSON          '001   
+
+  District 2022: Postsecondary Readiness Distinction  \
+0                                                  1   
+1                                                  0   
+2                                                  0   
+3                                                  1   
+4                                                  0   
+
+  District 2022 Flag - Rated under AEA Procedures (Y/N)  \
+0                                                  N      
+1                                                  N      
+2                                                  N      
+3                                                  N      
+4                                                  N      
+
+  District 2022 Flag - Charter Operator (Y/N)  District Name  \
+0                                           N     CAYUGA ISD   
+1                                           N    ELKHART ISD   
+2                                           N  FRANKSTON ISD   
+3                                           N     NECHES ISD   
+4                                           N  PALESTINE ISD   
+
+  2022 District Overall Grade  \
+0                           A   
+1                           A   
+2                           A   
+3                           A   
+4                           B   
+
+  District 2022 Special Education Determination Status Region Number  ...  \
+0                                 Meets Requirements             '07  ...   
+1                                 Meets Requirements             '07  ...   
+2                                 Meets Requirements             '07  ...   
+3                                 Meets Requirements             '07  ...   
+4                                   Needs Assistance             '07  ...   
+
+  District 2022 Staff: Teacher Student Ratio  \
+0                                       12.3   
+1                                         11   
+2                                       10.8   
+3                                       11.3   
+4                                       12.9   
+
+  District 2022 Staff: Teacher Tenure Average  \
+0                                         9.9   
+1                                         7.6   
+2                                         5.1   
+3                                         7.8   
+4                                           7   
+
+  District 2022 Staff: Teacher Total Base Salary Average  \
+0                                              55570       
+1                                              47916       
+2                                              50382       
+3                                              55346       
+4                                              48825       
+
+  District 2022 Staff: Teacher Total Full Time Equiv Count  \
+0                                               46.7         
+1                                              104.9         
+2                                               74.5         
+3                                               30.2         
+4                                              260.3         
+
+  District 2022 Staff: Teacher Total Full Time Equiv Percent  \
+0                                               46.8           
+1                                               56.2           
+2                                               50.8           
+3                                               50.3           
+4                                                 47           
+
+  District 2022 Staff: Teacher Turnover Ratio  \
+0                                        19.1   
+1                                        13.9   
+2                                        21.6   
+3                                        18.3   
+4                                        17.9   
+
+  District 2022 Staff: Teacher Two or more races Full Time Equiv Count  \
+0                                                  0                     
+1                                                  0                     
+2                                                  1                     
+3                                                  0                     
+4                                                  5                     
+
+  District 2022 Staff: Teacher Two or more races Full Time Equiv Percent  \
+0                                                  0                       
+1                                                  0                       
+2                                                1.3                       
+3                                                  0                       
+4                                                1.9                       
+
+  District 2022 Staff: Teacher White Full Time Equiv Count  \
+0                                               42.8         
+1                                               94.9         
+2                                               69.5         
+3                                               28.3         
+4                                              194.3         
+
+  District 2022 Staff: Teacher White Full Time Equiv Percent  
+0                                               91.7          
+1                                               90.5          
+2                                               93.3          
+3                                               93.5          
+4                                               74.6          
+
+[5 rows x 114 columns]
+2023-07-23 19:31:14 [INFO] Executed in: 19.62575888633728s
+2023-07-23 19:32:02 [INFO] Question: What were the worst performing charter schools teaching the most vulnerable and ethnic students?
+2023-07-23 19:32:02 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:32:02 [INFO] Prompt ID: 14b100e6-72a0-4ec3-9949-b1ae4d2eb9f2
+2023-07-23 19:32:35 [INFO] Question: What were the worst performing charter schools teaching the most vulnerable students?
+2023-07-23 19:32:35 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:32:35 [INFO] Prompt ID: 55e8c4c1-b1af-40f3-a72e-a8079b6121a0
+2023-07-23 19:32:40 [INFO] 
+                        Code generated:
+                        ```
+                        # Filter the dataframe to include only charter schools
+charter_schools = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'Y']
+
+# Sort the charter schools by their overall grade in descending order
+charter_schools_sorted = charter_schools.sort_values(by='2022 District Overall Grade', ascending=True)
+
+# Get the top 10 worst performing charter schools
+worst_performing_charter_schools = charter_schools_sorted.head(10)
+
+# Print the district names of the worst performing charter schools
+print(worst_performing_charter_schools['District Name'])
+                        ```
+                    
+2023-07-23 19:32:40 [INFO] 
+Code running:
+```
+charter_schools = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'Y']
+charter_schools_sorted = charter_schools.sort_values(by='2022 District Overall Grade', ascending=True)
+worst_performing_charter_schools = charter_schools_sorted.head(10)
+print(worst_performing_charter_schools['District Name'])
+```
+2023-07-23 19:32:40 [INFO] Answer: 8                           PINEYWOODS COMMUNITY ACADEMY
+256                                    UNIVERSAL ACADEMY
+853     STEPHEN F AUSTIN STATE UNIVERSITY CHARTER SCHOOL
+819                       MIDLAND ACADEMY CHARTER SCHOOL
+1167                           MERIDIAN WORLD SCHOOL LLC
+761                                         RISE ACADEMY
+660                                      BOB HOPE SCHOOL
+573                                     VANGUARD ACADEMY
+269                     EVOLUTION ACADEMY CHARTER SCHOOL
+571        TRIUMPH PUBLIC HIGH SCHOOLS-RIO GRANDE VALLEY
+Name: District Name, dtype: object
+2023-07-23 19:32:40 [INFO] Executed in: 5.0810630321502686s
+2023-07-23 19:32:48 [INFO] Question: What were the worst performing charter schools teaching the most vulnerable students?
+2023-07-23 19:32:48 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:32:48 [INFO] Prompt ID: 2c99dbfc-8287-45ba-bc2c-779514adc7e1
+2023-07-23 19:32:48 [INFO] Using cached response
+2023-07-23 19:32:48 [INFO] 
+Code running:
+```
+charter_schools = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'Y']
+charter_schools_sorted = charter_schools.sort_values(by='2022 District Overall Grade', ascending=True)
+worst_performing_charter_schools = charter_schools_sorted.head(10)
+print(worst_performing_charter_schools['District Name'])
+```
+2023-07-23 19:32:48 [INFO] Answer: 8                           PINEYWOODS COMMUNITY ACADEMY
+256                                    UNIVERSAL ACADEMY
+853     STEPHEN F AUSTIN STATE UNIVERSITY CHARTER SCHOOL
+819                       MIDLAND ACADEMY CHARTER SCHOOL
+1167                           MERIDIAN WORLD SCHOOL LLC
+761                                         RISE ACADEMY
+660                                      BOB HOPE SCHOOL
+573                                     VANGUARD ACADEMY
+269                     EVOLUTION ACADEMY CHARTER SCHOOL
+571        TRIUMPH PUBLIC HIGH SCHOOLS-RIO GRANDE VALLEY
+Name: District Name, dtype: object
+2023-07-23 19:32:48 [INFO] Executed in: 0.006103992462158203s
+2023-07-23 19:33:05 [INFO] Question: What were the worst performing charter schools teaching the most vulnerable students?
+2023-07-23 19:33:05 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:33:05 [INFO] Prompt ID: 381163f1-8f0b-4b1f-ac6a-87a32ef79102
+2023-07-23 19:33:05 [INFO] Using cached response
+2023-07-23 19:33:05 [INFO] 
+Code running:
+```
+charter_schools = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'Y']
+charter_schools_sorted = charter_schools.sort_values(by='2022 District Overall Grade', ascending=True)
+worst_performing_charter_schools = charter_schools_sorted.head(10)
+print(worst_performing_charter_schools['District Name'])
+```
+2023-07-23 19:33:05 [INFO] Answer: 8                           PINEYWOODS COMMUNITY ACADEMY
+256                                    UNIVERSAL ACADEMY
+853     STEPHEN F AUSTIN STATE UNIVERSITY CHARTER SCHOOL
+819                       MIDLAND ACADEMY CHARTER SCHOOL
+1167                           MERIDIAN WORLD SCHOOL LLC
+761                                         RISE ACADEMY
+660                                      BOB HOPE SCHOOL
+573                                     VANGUARD ACADEMY
+269                     EVOLUTION ACADEMY CHARTER SCHOOL
+571        TRIUMPH PUBLIC HIGH SCHOOLS-RIO GRANDE VALLEY
+Name: District Name, dtype: object
+2023-07-23 19:33:05 [INFO] Executed in: 0.009376049041748047s
+2023-07-23 19:33:05 [INFO] Question: What were their student populations like?
+2023-07-23 19:33:05 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:33:05 [INFO] Prompt ID: fc39729f-58fa-4ed6-aa80-3791f53ff190
+2023-07-23 19:33:07 [INFO] 
+                        Code generated:
+                        ```
+                        df['District 2022 Staff: Teacher Total Full Time Equiv Count']
+                        ```
+                    
+2023-07-23 19:33:07 [INFO] 
+Code running:
+```
+df['District 2022 Staff: Teacher Total Full Time Equiv Count']
+```
+2023-07-23 19:33:07 [INFO] Answer: 0        46.7
+1       104.9
+2        74.5
+3        30.2
+4       260.3
+        ...  
+1202     24.1
+1203     76.8
+1204    228.9
+1205    111.7
+1206     48.9
+Name: District 2022 Staff: Teacher Total Full Time Equiv Count, Length: 1207, dtype: object
+2023-07-23 19:33:07 [INFO] Executed in: 1.6055278778076172s
+2023-07-23 19:33:21 [INFO] Question: What were the worst performing charter schools teaching the most vulnerable students?
+2023-07-23 19:33:21 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:33:21 [INFO] Prompt ID: d796b5a7-d259-4a3a-b2a3-bc90dddfe1b4
+2023-07-23 19:33:21 [INFO] Using cached response
+2023-07-23 19:33:21 [INFO] 
+Code running:
+```
+charter_schools = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'Y']
+charter_schools_sorted = charter_schools.sort_values(by='2022 District Overall Grade', ascending=True)
+worst_performing_charter_schools = charter_schools_sorted.head(10)
+print(worst_performing_charter_schools['District Name'])
+```
+2023-07-23 19:33:21 [INFO] Answer: 8                           PINEYWOODS COMMUNITY ACADEMY
+256                                    UNIVERSAL ACADEMY
+853     STEPHEN F AUSTIN STATE UNIVERSITY CHARTER SCHOOL
+819                       MIDLAND ACADEMY CHARTER SCHOOL
+1167                           MERIDIAN WORLD SCHOOL LLC
+761                                         RISE ACADEMY
+660                                      BOB HOPE SCHOOL
+573                                     VANGUARD ACADEMY
+269                     EVOLUTION ACADEMY CHARTER SCHOOL
+571        TRIUMPH PUBLIC HIGH SCHOOLS-RIO GRANDE VALLEY
+Name: District Name, dtype: object
+2023-07-23 19:33:21 [INFO] Executed in: 0.008002996444702148s
+2023-07-23 19:33:23 [INFO] Question: What were their student populations like?
+2023-07-23 19:33:23 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:33:23 [INFO] Prompt ID: 220debba-f9bf-4201-a5de-3e63ff30aeb1
+2023-07-23 19:33:23 [INFO] Using cached response
+2023-07-23 19:33:23 [INFO] 
+Code running:
+```
+df['District 2022 Staff: Teacher Total Full Time Equiv Count']
+```
+2023-07-23 19:33:23 [INFO] Answer: 0        46.7
+1       104.9
+2        74.5
+3        30.2
+4       260.3
+        ...  
+1202     24.1
+1203     76.8
+1204    228.9
+1205    111.7
+1206     48.9
+Name: District 2022 Staff: Teacher Total Full Time Equiv Count, Length: 1207, dtype: object
+2023-07-23 19:33:23 [INFO] Executed in: 0.002649068832397461s
+2023-07-23 19:58:29 [INFO] Question: What were the worst performing charter schools teaching the most vulnerable students?
+2023-07-23 19:58:29 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:58:29 [INFO] Prompt ID: cac7958c-679e-4c6d-b484-f4efaf9c19aa
+2023-07-23 19:58:29 [INFO] Using cached response
+2023-07-23 19:58:29 [INFO] 
+Code running:
+```
+charter_schools = df[df['District 2022 Flag - Charter Operator (Y/N)'] == 'Y']
+charter_schools_sorted = charter_schools.sort_values(by='2022 District Overall Grade', ascending=True)
+worst_performing_charter_schools = charter_schools_sorted.head(10)
+print(worst_performing_charter_schools['District Name'])
+```
+2023-07-23 19:58:29 [INFO] Answer: 8                           PINEYWOODS COMMUNITY ACADEMY
+256                                    UNIVERSAL ACADEMY
+853     STEPHEN F AUSTIN STATE UNIVERSITY CHARTER SCHOOL
+819                       MIDLAND ACADEMY CHARTER SCHOOL
+1167                           MERIDIAN WORLD SCHOOL LLC
+761                                         RISE ACADEMY
+660                                      BOB HOPE SCHOOL
+573                                     VANGUARD ACADEMY
+269                     EVOLUTION ACADEMY CHARTER SCHOOL
+571        TRIUMPH PUBLIC HIGH SCHOOLS-RIO GRANDE VALLEY
+Name: District Name, dtype: object
+2023-07-23 19:58:29 [INFO] Executed in: 0.018080949783325195s
+2023-07-23 19:58:33 [INFO] Question: What were their student populations like?
+2023-07-23 19:58:33 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:58:33 [INFO] Prompt ID: 47f1c683-3729-4555-97f0-8cb15d8c0d04
+2023-07-23 19:58:33 [INFO] Using cached response
+2023-07-23 19:58:33 [INFO] 
+Code running:
+```
+df['District 2022 Staff: Teacher Total Full Time Equiv Count']
+```
+2023-07-23 19:58:33 [INFO] Answer: 0        46.7
+1       104.9
+2        74.5
+3        30.2
+4       260.3
+        ...  
+1202     24.1
+1203     76.8
+1204    228.9
+1205    111.7
+1206     48.9
+Name: District 2022 Staff: Teacher Total Full Time Equiv Count, Length: 1207, dtype: object
+2023-07-23 19:58:33 [INFO] Executed in: 0.0028307437896728516s
+2023-07-23 19:58:37 [INFO] Question: Concisely respond. What is the name of the fifth top variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:58:37 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:58:37 [INFO] Prompt ID: 283bd3dd-981f-49dd-935c-92a962667fd1
+2023-07-23 19:58:37 [INFO] Using cached response
+2023-07-23 19:58:37 [INFO] 
+Code running:
+```
+df_sorted = df.sort_values(by='Disparity', ascending=False)
+fifth_top_variable = df_sorted.columns[4]
+fifth_top_variable
+```
+2023-07-23 19:58:37 [WARNING] Error executing code (count: 0)
+2023-07-23 19:58:39 [WARNING] Error executing code (count: 1)
+2023-07-23 19:58:41 [WARNING] Error executing code (count: 2)
+2023-07-23 19:58:43 [INFO] Answer: 
+2023-07-23 19:58:43 [INFO] Executed in: 6.446470022201538s
+2023-07-23 19:58:43 [INFO] Question: Concisely respond. What is the name of the sixth top variable where the disparity is greatest in favor of public school districts)?
+2023-07-23 19:58:43 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:58:43 [INFO] Prompt ID: c598cefa-b59c-4f26-ac7e-62485c6c5505
+2023-07-23 19:58:43 [INFO] Using cached response
+2023-07-23 19:58:43 [INFO] 
+Code running:
+```
+df_sorted = df.sort_values(by='Disparity', ascending=False)
+sixth_top_variable = df_sorted.columns[5]
+sixth_top_variable
+```
+2023-07-23 19:58:43 [WARNING] Error executing code (count: 0)
+2023-07-23 19:58:45 [WARNING] Error executing code (count: 1)
+2023-07-23 19:58:47 [INFO] Question: Concisely respond. What is the name of the variable where the disparity is fourth greatest in favor of public school districts)?
+2023-07-23 19:58:47 [INFO] Running PandasAI with openai LLM...
+2023-07-23 19:58:47 [INFO] Prompt ID: 268de0d1-2ebf-4add-9ee9-5005587e8469
+2023-07-23 19:58:47 [INFO] Using cached response
+2023-07-23 19:58:47 [INFO] 
+Code running:
+```
+sorted_df = df.sort_values('Disparity', ascending=False)
+variable_name = sorted_df.iloc[3]['District Name']
+variable_name
+```
+2023-07-23 19:58:47 [WARNING] Error executing code (count: 0)
+2023-07-23 19:58:51 [WARNING] Error executing code (count: 1)
+2023-07-23 19:58:54 [WARNING] Error executing code (count: 2)
+2023-07-23 19:58:56 [INFO] Answer: 
+2023-07-23 19:58:56 [INFO] Executed in: 9.338268995285034s
