@@ -121,3 +121,7 @@ _output
 */.idea
 
 */.idea/*
+
+*/cache/*
+
+*.db
