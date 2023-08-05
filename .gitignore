@@ -121,3 +121,5 @@ _output
 */.idea
 
 */.idea/*
+
+*/.ipynb_checkpoints
