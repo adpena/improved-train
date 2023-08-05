@@ -51,3 +51,5 @@ folium
 openpyxl
 pygwalker
 pandasai
+xlrd
+pypeims
